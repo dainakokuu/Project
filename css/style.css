@@ -152,7 +152,6 @@ footer h1 {
 footer .snail_hand {
   position: relative;
   display: inline-block;
-  padding: 20px 80px 30px 15px; 
   cursor: pointer;
 }
 
@@ -162,10 +161,10 @@ footer .snail_hand .scr {
 
 @keyframes spin {
   0% {
-    transform: rotate(-2deg);
+    transform: rotate(-5deg);
   }
   100% {
-    transform: rotate(4deg);
+    transform: rotate(5deg);
   }
 }
 
